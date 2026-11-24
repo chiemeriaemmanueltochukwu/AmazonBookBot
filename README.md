@@ -331,5 +331,5 @@ This project therefore serves as a practical foundation for developing more adva
 **Project:** Amazon Book Bot  
 **Category:** Python Automation | Web Scraping | Data Collection  
 **Language:** Python  
-**Developer:** [Your Name]  
+**Developer:** [Chiemeria Tochukwu Emmanuel]  
 **Repository:** AmazonBookBot
